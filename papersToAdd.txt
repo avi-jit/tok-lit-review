@@ -1,4 +1,10 @@
-https://aclanthology.org/2022.repl4nlp-1.10
-https://aclanthology.org/2022.naacl-main.179
-https://www.aclweb.org/anthology/2021.eacl-main.194/
-https://www.aclweb.org/anthology/2021.eacl-main.302/
+https://www.semanticscholar.org/paper/A-Vocabulary-Free-Multilingual-Neural-Tokenizer-for-Islam-Aguilar/ad6c25a46a083e02dbfcdd4b6341945d517b5e31
+https://www.semanticscholar.org/paper/What-do-tokens-know-about-their-characters-and-how-Kaushal-Mahowald/9a1a9ae2fc2911f1f275702bef38aa8f79c86986
+https://www.semanticscholar.org/paper/Subword-Pooling-Makes-a-Difference-%C3%81cs-K'ad'ar/188cd686fb2200f237f688dbda7f64ffc75e67ac
+https://www.semanticscholar.org/paper/From-characters-to-words%3A-the-turning-point-of-BPE-Gutierrez-Vasques-Bentz/7771aa7badc3375a31bfac8dc47755ff5d5c7780
+https://www.semanticscholar.org/paper/17a4477765f27fe3ad037eff9e663ffc6799d7fe
+https://www.semanticscholar.org/paper/373588ff1fb9f7590db000a04de8d838b1516e5a
+https://www.semanticscholar.org/paper/15db055ac7cb49bac96cc1be1270d9bf2b0b1770
+https://www.semanticscholar.org/paper/17a4477765f27fe3ad037eff9e663ffc6799d7fe
+https://www.semanticscholar.org/paper/373588ff1fb9f7590db000a04de8d838b1516e5a
+https://www.semanticscholar.org/paper/15db055ac7cb49bac96cc1be1270d9bf2b0b1770
